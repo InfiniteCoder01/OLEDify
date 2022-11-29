@@ -1,0 +1,2 @@
+﻿  main.cpp
+D:\Dev\C++\OpenCV\OLEDify\main.cpp(1,10): fatal error C1083: Не удается открыть файл включение: opencv2/core/core.hpp: No such file or directory,
